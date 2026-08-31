@@ -41,7 +41,8 @@ Vue.js · Node.js
 
 Projet réalisé dans le cadre de ma formation permettant de travailler sur le développement d'une application web avec Vue.js et Node.js.
 
-[➡️ Voir le projet](https://github.com/maliciaax/AppliJusdeFruit)<br><br>
+[➡️ Voir le projet](https://github.com/maliciaax/AppliJusdeFruit)
+<br><br>
 
 ## 🏪 Vegan Shop Finder
 
@@ -51,23 +52,26 @@ Site web recensant des magasins et permettant leur consultation.
 
 [🌐 Voir la démonstration](https://veganshopfinder.gyptis.org/appliVegan/index.php)
 
-[➡️ Voir le code](https://github.com/maliciaax/veganshopfinder)<br><br>
+[➡️ Voir le code](https://github.com/maliciaax/veganshopfinder)
+<br><br>
 
-##🎮 Jeu POO Survivor
+## 🎮 Jeu POO Survivor
 
 Python · Pyxel
 
 Projet de jeu développé en Python en groupe durant mes années de lycées.
 
 [➡️ Voir le projet](https://github.com/maliciaax/Jeu-Poo-Survivor)
+<br><br>
 
-🎯 Jeu de Pendu
+##🎯 Jeu de Pendu
 
 Python
 
 Projet de jeu développé en Python en groupe durant mes années de lycées.
 
 [➡️ Voir le projet](https://github.com/maliciaax/Jeu-de-pendu-en-python)
+<br><br>
 
 ##🌐 Portfolio
 
