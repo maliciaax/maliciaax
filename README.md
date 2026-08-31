@@ -1,18 +1,82 @@
-# 💫 About Me:
-Développeuse web junior diplômée d'un BTS SIO SLAM, je souhaite poursuivre ma formation en Bachelor Concepteur Développeur Web Full Stack en alternance. Mon stage chez Index Éducation m'a permis de travailler sur des évolutions fonctionnelles et techniques en PHP, HTML/CSS, JavaScript et MySQL, ainsi que sur les tests et l'accessibilité RGAA. Curieuse et rigoureuse, je souhaite aujourd'hui rejoindre une équipe de développement pour approfondir mes compétences et contribuer à des projets concrets.
+Bonjour, je suis Malicia MANS
 
+Développeuse Web Junior — Recherche d'une alternance Full Stack
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/387968045907443714) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malicia-mans-578b00305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mans.malicia@gmail.com) 
+Diplômée d'un BTS SIO SLAM en juin 2026, je vais poursuivre ma formation en Bachelor Concepteur Développeur Web Full Stack à la rentrée 2026.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=maliciaax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=maliciaax&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maliciaax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Je recherche actuellement une alternance en développement web à partir de septembre 2026.
 
----
-[![](https://komarev.com/ghpvc/?username=maliciaax&icon=0&color=4)](https://visitcount.itsvg.in)
+Lors de mon stage chez Index Éducation, j'ai eu l'occasion de travailler sur l'évolution d'un logiciel existant, notamment avec PHP, HTML/CSS, JavaScript et MySQL, ainsi que sur les tests et l'accessibilité RGAA.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Au cours de ma formation, j'ai également développé des projets avec Vue.js, Node.js, JavaScript, PHP et Python.
+
+💻 Compétences
+
+Développement web
+
+HTML / CSS
+JavaScript
+Vue.js
+Node.js
+PHP
+MySQL
+Développement
+
+Python
+C#
+Tests & outils
+
+PHPUnit
+Postman
+Git / GitHub
+Visual Studio Code
+Visual Studio
+Méthodes
+
+Agile / Scrum
+Gestion de projet
+🚀 Mes projets
+
+🍎 AppliJusdeFruit
+
+Vue.js · Node.js
+
+Projet réalisé dans le cadre de ma formation permettant de travailler sur le développement d'une application web avec Vue.js et Node.js.
+
+➡️ Voir le projet
+
+🏪 Vegan Shop Finder
+
+PHP · MySQL · HTML/CSS
+
+Site web recensant des magasins et permettant leur consultation.
+
+🌐 Voir la démonstration
+
+➡️ Voir le code
+
+🎮 Jeu POO Survivor
+
+Python · Pyxel
+
+Projet de jeu développé en Python dans le cadre de ma formation.
+
+➡️ Voir le projet
+
+🎯 Jeu de Pendu
+
+Python
+
+Projet réalisé dans le cadre de ma formation afin de mettre en pratique les bases de la programmation en Python.
+
+➡️ Voir le projet
+
+🌐 Portfolio
+
+👉 malx.gyptis.org
+
+📫 Contact
+
+📧 mans.malicia@gmail.com
+
+Je suis actuellement à la recherche d'une alternance en développement web / logiciel autour de Marseille.
