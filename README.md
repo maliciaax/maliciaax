@@ -20,22 +20,19 @@ Au cours de ma formation, j'ai également développé des projets avec Vue.js, N
 - Node.js
 - PHP
 - MySQL
-- Développement
-
-- Python
-- C#
-- Tests & outils
-
+<br>                 
+## Développement
 - PHPUnit
 - Postman
 - Git / GitHub
 - Visual Studio Code
 - Visual Studio
-- Méthodes
-
+<br> 
+## Méthodes
 - Agile / Scrum
 - Gestion de projet
 <br><br>
+
 # 🚀 Mes projets
 
 ## 🍎 AppliJusdeFruit
