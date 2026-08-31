@@ -20,14 +20,14 @@ Au cours de ma formation, j'ai également développé des projets avec Vue.js, N
 - Node.js
 - PHP
 - MySQL
-<br>                 
+               
 ## Développement
 - PHPUnit
 - Postman
 - Git / GitHub
 - Visual Studio Code
 - Visual Studio
-<br> 
+
 ## Méthodes
 - Agile / Scrum
 - Gestion de projet
