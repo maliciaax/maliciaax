@@ -64,7 +64,7 @@ Projet de jeu développé en Python en groupe durant mes années de lycées.
 [➡️ Voir le projet](https://github.com/maliciaax/Jeu-Poo-Survivor)
 <br><br>
 
-##🎯 Jeu de Pendu
+## 🎯 Jeu de Pendu
 
 Python
 
@@ -73,11 +73,11 @@ Projet de jeu développé en Python en groupe durant mes années de lycées.
 [➡️ Voir le projet](https://github.com/maliciaax/Jeu-de-pendu-en-python)
 <br><br>
 
-##🌐 Portfolio
+## 🌐 Portfolio
 
 [👉 malx.gyptis.org](malx.gyptis.org)
 
-##📫 Contact
+## 📫 Contact
 
 📧 mans.malicia@gmail.com
 
