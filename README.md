@@ -51,29 +51,29 @@ Site web recensant des magasins et permettant leur consultation.
 
 [🌐 Voir la démonstration](https://veganshopfinder.gyptis.org/appliVegan/index.php)
 
-[➡️ Voir le code](https://github.com/maliciaax/veganshopfinder)
+[➡️ Voir le code](https://github.com/maliciaax/veganshopfinder)<br><br>
 
-🎮 Jeu POO Survivor
+##🎮 Jeu POO Survivor
 
 Python · Pyxel
 
-Projet de jeu développé en Python dans le cadre de ma formation.
+Projet de jeu développé en Python en groupe durant mes années de lycées.
 
-➡️ Voir le projet
+[➡️ Voir le projet](https://github.com/maliciaax/Jeu-Poo-Survivor)
 
 🎯 Jeu de Pendu
 
 Python
 
-Projet réalisé dans le cadre de ma formation afin de mettre en pratique les bases de la programmation en Python.
+Projet de jeu développé en Python en groupe durant mes années de lycées.
 
-➡️ Voir le projet
+[➡️ Voir le projet](https://github.com/maliciaax/Jeu-de-pendu-en-python)
 
-🌐 Portfolio
+##🌐 Portfolio
 
-👉 malx.gyptis.org
+[👉 malx.gyptis.org](malx.gyptis.org)
 
-📫 Contact
+##📫 Contact
 
 📧 mans.malicia@gmail.com
 
