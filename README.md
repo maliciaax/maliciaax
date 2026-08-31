@@ -41,6 +41,8 @@ Vue.js · Node.js
 
 Projet réalisé dans le cadre de ma formation permettant de travailler sur le développement d'une application web avec Vue.js et Node.js.
 
+[🌐 Voir le projet en ligne](https://mansmalicia.alwaysdata.net/)
+
 [➡️ Voir le projet](https://github.com/maliciaax/AppliJusdeFruit)
 <br><br>
 
@@ -50,7 +52,7 @@ PHP · MySQL · HTML/CSS
 
 Site web recensant des magasins et permettant leur consultation.
 
-[🌐 Voir la démonstration](https://veganshopfinder.gyptis.org/appliVegan/index.php)
+[🌐 Voir le projet en ligne](https://veganshopfinder.gyptis.org/appliVegan/index.php)
 
 [➡️ Voir le code](https://github.com/maliciaax/veganshopfinder)
 <br><br>
