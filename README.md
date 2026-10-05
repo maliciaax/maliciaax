@@ -19,6 +19,8 @@ Au cours de ma formation, j'ai également développé des projets avec Vue.js, N
 - Vue.js
 - Node.js
 - PHP
+- Angular (en cours)
+- TypeScript (en cours)
 - MySQL
                
 ## Développement
@@ -41,7 +43,6 @@ Vue.js · Node.js
 
 Projet réalisé dans le cadre de ma formation permettant de travailler sur le développement d'une application web avec Vue.js et Node.js.
 
-[🌐 Voir le projet en ligne](https://mansmalicia.alwaysdata.net/)
 
 [➡️ Voir le projet](https://github.com/maliciaax/AppliJusdeFruit)
 <br><br>
